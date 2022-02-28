@@ -1,8 +1,8 @@
-# TEST
+# The Great README Generator
   ***
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
   ## Description
-  aldjfal djflaj dfl;ajd faljd fal;jd flaj dflajd falj dflajd flajd fla;jdf aldj fal;djf aldjf aljfd aldjf aldj faldkj faljdf al;jdfaldj faljf al;jd faljd fal;jdf aljd falj faljd fal;dj faljd fal;j faljdf a;lj dfalj df;aljf
+  Here is a description.<br /><br />[Link to walkthrough video](http://videowalkthrough.com)
   ***
   ## Table of Contents
   - [Installation](#installation)
@@ -13,21 +13,21 @@
   - [Questions](#questions)
   ***
   ## Installation
-  npm install
+  To install the project npm install
   ***
   ## Usage
-  node index
+  To run the project: In terminal run `node index`
   ***
   ## License
-  [MIT](https://opensource.org/licenses/MIT) <br />
-  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files the "Software", to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br />The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br />THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  ####
+  
   ***
   ## Contributing
-  alkjflkajdf ajf aldjf aldkjf aldfj al;djf aldjf al;djf aldjf aldjf ajdf afjdajf da
+  Sorry, I am working on this one on my own.
   ***
   ## Tests
-  There is no test to run.
+  There are no tests.
   ***
   ## Questions
-  If you have any questions, check out my GitHub here: [ngranzow](https://github.com/ngranzow/) <br />
+  If you have any questions, check out my GitHub here: [ngramzow](https://github.com/ngranzow/) <br />
   Or feel free to [email me](mailto:nate.granzow@gmail.com)
