@@ -96,8 +96,8 @@ function generateMarkdown(data) {
   ${data.test}
   ***
   ## Questions
-  If you have any questions, check out my GitHub here: [${data.username}](${data.link}) <br />
-  Or feel free to [email me](mailto:${data.email})
+  Check out my GitHub here: [${data.username}](${data.link}) <br />
+  If you have any additional questions please feel free to [email me](mailto:${data.email})
 `;
 }
 
