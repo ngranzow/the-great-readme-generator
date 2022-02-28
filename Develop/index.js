@@ -59,7 +59,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'Please select a license.',
-        choices: ['Apache 2.0 License', 'GNU GPLv3', 'MIT', 'ISC', 'Mozilla Public License 2.0', 'Boost Software License 1.0', 'The Unlicense']
+        choices: ['Apache 2.0 License', 'GNU GPL v3', 'MIT', 'ISC', 'Mozilla Public License 2.0', 'Boost Software License 1.0', 'The Unlicense', 'no license']
     },
     {
         type: 'input',
@@ -123,6 +123,7 @@ function init() {
     .then(answers => {
         console.log(answers);
         writeToFile('README.md', generateMarkdown({...answers}))
+        console.log('Congratulations! You created a README file!');
     })
 }
 
